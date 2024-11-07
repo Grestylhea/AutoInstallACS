@@ -12,7 +12,7 @@ This script is optimized for Ubuntu distributions only.
 Make sure to have root or sudo access before executing this script.
 For any issues, please reach out to the contact provided above.
 
-# * Disclaimer: Use this script at your own risk. The author is not responsible for any damage caused by improper usage of the code.
+* Disclaimer: Use this script at your own risk. The author is not responsible for any damage caused by improper usage of the code.
 
 # Auto Install Script for GenieACS
 
