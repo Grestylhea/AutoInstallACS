@@ -1,3 +1,19 @@
+# Author Information
+
+Author: Gresty | Ibnu Ato'illah
+Contact: ibnuthoillahibnu39@gmail.com
+
+# License and Usage Terms
+
+This script is free to use and modify; however, it is strictly prohibited to sell or redistribute this script for any commercial purposes. The author reserves all rights to this code and may revoke the license at any time if these terms are violated.
+
+* Disclaimer: Use this script at your own risk. The author is not responsible for any damage caused by improper usage of the code.
+
+# Notes 
+This script is optimized for Ubuntu distributions only.
+Make sure to have root or sudo access before executing this script.
+For any issues, please reach out to the contact provided above.
+
 # Auto Install Script for GenieACS
 
 Dilarang menjual script ini,
