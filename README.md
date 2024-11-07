@@ -27,6 +27,5 @@ To install GenieACS on your Ubuntu server, simply execute the following command:
 
 ```bash
 bash <(curl -fsSL https://raw.githubusercontent.com/Grestylhea/AutoInstallACS/main/AutoInstallACS.sh)
-chmod +x AutoInstallACS.sh
-./AutoInstallACS.sh
+
 
